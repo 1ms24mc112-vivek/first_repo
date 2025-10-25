@@ -1,2 +1,2 @@
-This is the first version of the file.
-this added from master branch
+This line is from the master branch.
+This line is from the other branch.
